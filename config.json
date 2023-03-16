@@ -1,19 +1,14 @@
 {
   "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "site_title": "I love blogs.",
+  "site_description": "Not really",
   "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
-    },
-    {
-      "keyword": "React"
-    }
+    "Ding",
+    "Dong",
+    "Merrily",
+    "Man"
   ],
   "posts_per_page": 5,
-  "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "twitter_account": "@the-prince-of-bingo",
+  "github_account": "seastack-digital"
 }
